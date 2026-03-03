@@ -143,7 +143,7 @@
       <div class="spotify-frame" title="Sua foto com moldura">
         <div class="frame-inner">
           <!-- Troque o src abaixo pela URL ou caminho da sua foto -->
-          <img src="c:\Users\ALL\Downloads\eueaana.jpeg" alt="Sua foto"/>
+          <img src="eueaana.jpeg" alt="Sua foto"/>
           <button class="play" aria-hidden="true" tabindex="-1">
             <!-- Ícone de play simples -->
             <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
